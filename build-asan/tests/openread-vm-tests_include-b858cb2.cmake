@@ -1,5 +1,0 @@
-if(EXISTS "/Users/conycqzhang/Learning/Work/OpenRead/build-asan/tests/openread-vm-tests_tests-b858cb2.cmake")
-  include("/Users/conycqzhang/Learning/Work/OpenRead/build-asan/tests/openread-vm-tests_tests-b858cb2.cmake")
-else()
-  add_test(openread-vm-tests_NOT_BUILT-b858cb2 openread-vm-tests_NOT_BUILT-b858cb2)
-endif()
